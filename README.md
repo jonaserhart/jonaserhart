@@ -5,7 +5,7 @@ I...
  - ... live in Austria 🏔
  - ... study Computer Science in Innsbruck 📚
  - ... work part time as a developer ⌨️
- - ... have a website but its not finished [jonaserh.art](https://www.jonaserh.art)
+ - ... have a website, but its not finished ([jonaserh.art](https://www.jonaserh.art))
 
 ### Stats 📊
 
@@ -26,3 +26,12 @@ I...
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) 
+![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ Idea](https://img.shields.io/badge/-IntelliJIdea-%23a036c9?style=flat-square&logo=jetbrains)
+![IntelliJ Rider](https://img.shields.io/badge/-Rider-%23c97336?style=flat-square&logo=jetbrains)
+![IntelliJ WebStorm](https://img.shields.io/badge/-WebStorm-%2336c9b1?style=flat-square&logo=jetbrains)
+![Emacs](https://img.shields.io/badge/-Emacs-%23000000?style=flat-square&logo=emacs)
+
