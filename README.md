@@ -5,6 +5,7 @@ I...
  - ... live in Austria 🏔
  - ... study Computer Science in Innsbruck 📚
  - ... work part time as a developer ⌨️
+ - ... have a website but its not finished [jonaserh.art](https://www.jonaserh.art)
 
 ### Stats 📊
 
