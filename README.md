@@ -3,8 +3,9 @@
 ### About me ℹ️
 I...
  - ... live in Austria 🏔
- - ... study Computer Science in Innsbruck 📚
+ - ... am currently studying Computer Science in Innsbruck 📚
  - ... work part time as a developer ⌨️
+ - ... am interested to learn new things and getting to know new technologies 
  - ... have a website, but its not finished ([jonaserh.art](https://www.jonaserh.art))
 
 ### Stats 📊
