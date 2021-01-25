@@ -34,4 +34,5 @@ I...
 ![IntelliJ Rider](https://img.shields.io/badge/-Rider-%23c97336?style=flat-square&logo=jetbrains)
 ![IntelliJ WebStorm](https://img.shields.io/badge/-WebStorm-%2336c9b1?style=flat-square&logo=jetbrains)
 ![Emacs](https://img.shields.io/badge/-Emacs-%23000000?style=flat-square&logo=emacs)
+![Azure](https://img.shields.io/badge/-Azure-%231572B6?style=flat-square&logo=Microsoft&logoColor=%23ffffff)
 
