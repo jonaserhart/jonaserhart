@@ -5,7 +5,7 @@ I...
  - ... am currently studying Computer Science in Innsbruck 📚
  - ... work part time as a developer ⌨️
  - ... am interested to learn new things and getting to know new technologies 📲
- - ... have a website, but its not finished ([jonaserh.art](https://www.jonaserh.art)) ☁️
+ - ... have a website ([jonaserh.art](https://www.jonaserh.art)) ☁️
 
 ### 📊
 
