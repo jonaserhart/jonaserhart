@@ -1,13 +1,12 @@
-## 👋
+## 👋 Welcome
 
-### ℹ️
-I...
- - ... am currently studying Computer Science in Innsbruck 📚
- - ... work part time as a developer ⌨️
- - ... am interested to learn new things and getting to know new technologies 📲
- - ... have a website ([jonaserh.art](https://www.jonaserh.art)) ☁️
+### ℹ️ Info
+ - I am currently studying Computer Science in Innsbruck 📚
+ - I work part time as a developer ⌨️
+ - I am always interested to learn new things and getting to know new technologies 📲
+ - Website: [jonaserh.art](https://www.jonaserh.art)
 
-### 📊
+### 📊 Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=jonaserhart)](https://github.com/jonaserhart/github-readme-stats)
 
