@@ -1,6 +1,7 @@
 ## 👋 Welcome
 
 ### ℹ️ Info
+ - My name is Jonas
  - I am currently studying Computer Science in Innsbruck 📚
  - I work part time as a developer ⌨️
  - I am always interested to learn new things and getting to know new technologies 📲
