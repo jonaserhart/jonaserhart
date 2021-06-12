@@ -10,7 +10,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=jonaserhart)](https://github.com/jonaserhart/github-readme-stats)
 
-### 💻
+### 💻 Stack
 ![C#](https://img.shields.io/badge/-C%23-%231db000?style=flat-square&logo=c&logoColor=%23ffffff) 
 ![C](https://img.shields.io/badge/-C-%23000000?style=flat-square&logo=c&logoColor=%23ffffff) 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=%23ffffff) 
