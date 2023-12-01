@@ -13,7 +13,7 @@
 ### 💻 Stack
 ![C#](https://img.shields.io/badge/-C%23-%231db000?style=flat-square&logo=c&logoColor=%23ffffff) 
 ![C](https://img.shields.io/badge/-C-%23000000?style=flat-square&logo=c&logoColor=%23ffffff) 
-![Rust](https://img.shields.io/badge/-C-%23000000?style=flat-square&logo=rust&logoColor=%23000000) 
+![Rust](https://img.shields.io/badge/-Rust-%23000000?style=flat-square&logo=rust&logoColor=%23ffffff) 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=%23ffffff) 
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-%23006fb0?style=flat-square&logo=postgresql&logoColor=%23ffffff) 
 ![MSSQL](https://img.shields.io/badge/-MSSQL-%23ebc802?style=flat-square&logo=sql&logoColor=%23ffffff) 
