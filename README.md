@@ -5,15 +5,15 @@
  - I am currently studying Computer Science in Innsbruck 📚
  - I work part time as a developer ⌨️
  - I am always interested to learn new things and getting to know new technologies 📲
- - Website: [jonaserh.art](https://www.jonaserh.art)
 
 ### 📊 Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jonaserhart)](https://github.com/jonaserhart/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonaserhart&show_icons=true&theme=transparent)
 
 ### 💻 Stack
 ![C#](https://img.shields.io/badge/-C%23-%231db000?style=flat-square&logo=c&logoColor=%23ffffff) 
 ![C](https://img.shields.io/badge/-C-%23000000?style=flat-square&logo=c&logoColor=%23ffffff) 
+![Rust](https://img.shields.io/badge/-C-%23000000?style=flat-square&logo=rust&logoColor=%23000000) 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=%23ffffff) 
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-%23006fb0?style=flat-square&logo=postgresql&logoColor=%23ffffff) 
 ![MSSQL](https://img.shields.io/badge/-MSSQL-%23ebc802?style=flat-square&logo=sql&logoColor=%23ffffff) 
