@@ -1,14 +1,14 @@
-## 👋 Welcome
+## 👋 Hello
 
 ### ℹ️ Info
  - My name is Jonas
  - I finished my studies in Computer Science in Innsbruck in 2024 📚
- - I work full time as a cloud engineer and golang developer ⌨️
+ - I work full time as a cloud engineer at [Dynatrace](https://www.dynatrace.com/) ⌨️
  - I am always interested to learn new things and getting to know new technologies 📲
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonaserhart&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonaserh&show_icons=true&theme=transparent)
 
 ### 💻 Favourites
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
